@@ -1,0 +1,8 @@
+﻿  OpenGLMeshLoader19.cpp
+D:\University\7th Semester\Graphics\football game\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\University\7th Semester\Graphics\football game\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\University\7th Semester\Graphics\football game\OpenGLMeshLoader19.cpp(609,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\7th Semester\Graphics\football game\OpenGLMeshLoader19.cpp(635,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\7th Semester\Graphics\football game\OpenGLMeshLoader19.cpp(656,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> D:\University\7th Semester\Graphics\football game\Debug\OpenGLMeshLoader19.exe

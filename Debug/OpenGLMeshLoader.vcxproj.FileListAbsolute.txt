@@ -1,0 +1,2 @@
+D:\University\7th Semester\Graphics\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
+D:\University\7th Semester\Graphics\football game\Debug\OpenGLMeshLoader19.exe

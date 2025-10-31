@@ -4,7 +4,10 @@
 
 This project is a real-time 3D football (soccer) penalty shootout game developed from the ground up using C++ and the OpenGL graphics library. It serves as a practical demonstration of core computer graphics concepts, including 3D rendering pipelines, asset loading, lighting, texturing, and interactive camera control.
 
-https://github.com/user-attachments/assets/cdcb05ce-5dec-49bd-b05e-8413a5a4c28a
+
+
+https://github.com/user-attachments/assets/da463527-b409-4f47-b5b4-df3d0dbcb4eb
+
 
 
 ## Key Technical Features
